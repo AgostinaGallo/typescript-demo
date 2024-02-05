@@ -1,0 +1,22 @@
+{
+  "name": "typescript-demo",
+  "version": "1.0.0",
+  "description": "Learning resource: https://www.youtube.com/watch?v=3qBXWUpoPHo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgostinaGallo/typescript-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgostinaGallo/typescript-demo/issues"
+  },
+  "homepage": "https://github.com/AgostinaGallo/typescript-demo#readme",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
